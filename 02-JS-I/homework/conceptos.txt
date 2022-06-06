@@ -1,0 +1,10 @@
+variables: contiene informacion, como una caja que tiene items y que 
+se puede abrir y cerrar y añadir cosas
+strings: son palabras
+funciones: es un codigo que realiza una accion, sirven para dividir en 
+tareas mas pequeñas lo que tiene que hacer el programa
+declaraciones if: son condiciones que se le aplican al programa, esperando
+que retornen en una opcion si es true o en otra si es false, son booleanos
+es decir operan por true or false
+valores booleanos: conectan terminos o conceptos, es una logica binaria
+true o false pero puede haber if que usen 3 posibles opciones
