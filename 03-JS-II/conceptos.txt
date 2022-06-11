@@ -1,0 +1,12 @@
+for: sirve para realizar tareas en bucle, es decir, 
+infinitas, donde una condicion debe repetirse varias
+veces hasta que se cumpla la condicion que el codigo diga
+Son como los operadores matemáticos pero para booleanos.
+
+&&: significa and, sirve para anidar operaciones o 
+condiciones y acortar codigo
+||: significa or, sirve para oponer condiciones dentro de 
+un mismo codigo
+
+!: significa not, sirve para negar el comando que se le 
+asigne a continuacion
