@@ -1,0 +1,20 @@
+*Objetos: contienen datos y tienen propiedades, 
+contienen mucha información sobre una sola cosa.
+Se instancian usando llaver {}
+
+*Propiedades: son las variables o atributos de los 
+objetos.
+
+*Métodos: son las funciones internas de los objetos
+
+*Bucle `for…in`: se usa paa recorrer cada clave
+del objeto y termina cuando se hayan recorrido todas,
+se declara con parentesis, una variable la clave in y
+el nombre del objeto 
+
+*Notación de puntos vs notación de corchetes: la notacion
+de puntos sirve para acceder a un atributo o propiedad 
+que se encuentre dentro del objeto, la diderencia que 
+tiene con la notacion de corchetes es que la segunda
+permite el uso de strings, numeros o una variable que
+lleve a alguno de estos mencionados
