@@ -1,0 +1,7 @@
+* `prototype`: es un mecanismo porel que un objeto puede tener 
+propiedades, éstas se suelen poner dentro del prototipo para poder
+usarlas cuantas veces sean necesarias lo que se llama propiedades 
+heredadas
+* _Constructors_ (de Clases): es un método para crear e inicializar un 
+objeto creado a partir de una clase. Se declara antes que el prototipo
+por ejemplo.
