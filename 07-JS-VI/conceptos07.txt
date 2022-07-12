@@ -1,0 +1,5 @@
+funciones callback: hacen posible pasar funciones 
+como argumento de otra funcion, se pueden llamar en 
+cualquier momento y pasar argumento dentro de la 
+funcion.
+Un callback puede ser un forEach, maps, reduce
